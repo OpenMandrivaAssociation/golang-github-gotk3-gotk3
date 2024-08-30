@@ -4,7 +4,7 @@
 # https://github.com/gotk3/gotk3
 %global goipath		github.com/gotk3/gotk3
 %global forgeurl	https://github.com/gotk3/gotk3
-Version:		0.6.3
+Version:		0.6.4.1
 
 %gometa
 
