@@ -4,7 +4,7 @@
 # https://github.com/gotk3/gotk3
 %global goipath		github.com/gotk3/gotk3
 %global forgeurl	https://github.com/gotk3/gotk3
-Version:		0.6.4.1
+Version:		0.6.4.2
 
 %gometa
 
@@ -65,7 +65,7 @@ building other packages which use import path with
 #-----------------------------------------------------------------------
 
 %prep
-%autosetup -p1 -n gotk3-%{version}
+%autosetup -p1 -n gotk3-0.6.4.2
 
 %build
 %gobuildroot
